@@ -1,0 +1,17 @@
+C:\Projects\PongGame\PongGame\bin\Debug\net8.0-windows\PongGame.exe
+C:\Projects\PongGame\PongGame\bin\Debug\net8.0-windows\PongGame.deps.json
+C:\Projects\PongGame\PongGame\bin\Debug\net8.0-windows\PongGame.runtimeconfig.json
+C:\Projects\PongGame\PongGame\bin\Debug\net8.0-windows\PongGame.dll
+C:\Projects\PongGame\PongGame\bin\Debug\net8.0-windows\PongGame.pdb
+C:\Projects\PongGame\PongGame\obj\Debug\net8.0-windows\PongGame.Form1.resources
+C:\Projects\PongGame\PongGame\obj\Debug\net8.0-windows\PongGame.Properties.Resources.resources
+C:\Projects\PongGame\PongGame\obj\Debug\net8.0-windows\PongGame.csproj.GenerateResource.cache
+C:\Projects\PongGame\PongGame\obj\Debug\net8.0-windows\PongGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\PongGame\PongGame\obj\Debug\net8.0-windows\PongGame.AssemblyInfoInputs.cache
+C:\Projects\PongGame\PongGame\obj\Debug\net8.0-windows\PongGame.AssemblyInfo.cs
+C:\Projects\PongGame\PongGame\obj\Debug\net8.0-windows\PongGame.csproj.CoreCompileInputs.cache
+C:\Projects\PongGame\PongGame\obj\Debug\net8.0-windows\PongGame.dll
+C:\Projects\PongGame\PongGame\obj\Debug\net8.0-windows\refint\PongGame.dll
+C:\Projects\PongGame\PongGame\obj\Debug\net8.0-windows\PongGame.pdb
+C:\Projects\PongGame\PongGame\obj\Debug\net8.0-windows\PongGame.genruntimeconfig.cache
+C:\Projects\PongGame\PongGame\obj\Debug\net8.0-windows\ref\PongGame.dll
